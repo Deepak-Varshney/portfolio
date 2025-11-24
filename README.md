@@ -1,140 +1,45 @@
 <div align="center">
-  <br />
-    <a href="https://www.youtube.com/watch?v=E-fdPfRxkzQ" target="_blank">
-      <img src="public/images/readme.png" alt="Project Banner">
-    </a>
-  <br />
-
-  <div>
-    <img src="https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </div>
-
-  <h3 align="center">Interactive 3D Portfolio Website</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+  <h1>Hi, I’m Deepak Varshney 👋</h1>
+  <p>Noida-based full stack developer crafting CRM, ERP, and community platforms with Next.js, React, TypeScript, Node.js, and Three.js.</p>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+## About Me
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets & Snippets](#links)
-6. 🚀 [More](#more)
+- 🎯 **Career Objective:** Build secure, data-heavy web apps that keep teams aligned. My sweet spot is turning unstructured workflows into polished CRM/ERP experiences with role-based access, audit trails, and predictable delivery.
+- 🏢 **Current Work:** Full Stack Developer (intern) @ Claims 360 Management — leading CoreFlow CRM (Next.js 14 + TypeScript + Zustand) with lead/folio tracking, follow-up cadences, and analytics that leadership trusts.
+- 📍 **Location:** Noida, India
+- 📬 **Contact:** `deepakvarshney.com@gmail.com` · `+91 7251830075`
+- 🔗 **Links:** [Portfolio](https://deepakvarshney.vercel.app) · [GitHub](https://github.com/Deepak-Varshney) · [LinkedIn](https://www.linkedin.com/in/deepakvarshney-exe/)
 
-## ⚠️ Tutorial
+## What I’m Working On
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
+| Product | Stack | Highlights |
+| --- | --- | --- |
+| **CoreFlow (Claims 360)** | Next.js 14, TypeScript, Zustand, RBAC | Lead & folio lifecycle, policy guards for sales/ops/finance, dashboards <200ms |
+| **CivicNest (Elenco)** | React, Clerk, Recharts, Zustand | Resident auth, event planner, analytics for society ops |
+| **MedNest (Elenco)** | React, Node.js, Express, MongoDB, jsPDF | Clinic ERP with doctor/reception RBAC and OPD card exports |
+| **Sight3 Invoicing** | Next.js, REST APIs | Finance UI kit, inventory & billing APIs, launched ahead of schedule |
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+## Skills Snapshot
 
-<a href="https://www.youtube.com/watch?v=E-fdPfRxkzQ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+- **Frontend:** Next.js, React 19, Tailwind CSS, Three.js, GSAP
+- **State & Data:** TypeScript, Zustand, Redux, React Hook Form + Zod
+- **Backend:** Node.js, Express.js, MongoDB, RESTful API design
+- **Quality:** RBAC design, audit logging, CI-friendly Git/GitHub workflows
+- **Collab:** Sprint planning, stakeholder updates, Loom walkthroughs, technical documentation
 
-## <a name="introduction">🤖 Introduction</a>
+## Recent Outcomes
 
-The 3D Portfolio project is a highly engaging personal website that features animated 3D scenes, smooth camera transitions, interactive model showcases, and responsive design. It’s ideal for developers, designers, or freelancers looking to stand out in the digital crowd.
+- Shipped a Next.js CRM used by 50+ internal users with zero access regressions thanks to well-modeled RBAC guardrails.
+- Launched CivicNest and MedNest modules without missing a milestone, introducing documentation and testing checklists the teams now reuse.
+- Boosted Sight3 invoicing efficiency by 25% through a redesigned UI and cleaner API layer.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
+## Education & Training
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+- **BCA, Manipal University Jaipur (2022-2025)** — 82.55%
+- **Full Stack Development PG Course, Internshala (2024-2025)** — covered HTML/CSS, JavaScript, React, Node.js/Express, MongoDB, capstone delivery, DSA in JS.
+- **IBM Web Application Development (2023-2024)** — hands-on sprint building modular JS applications and mentoring peers.
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## Let’s Collaborate
 
-- Three.js
-- React Three Fiber
-- Drei
-- GSAP
-- Tailwind CSS
-- Vite
-- React 19
-
-## <a name="features">🔋 Features</a>
-
-### Features of the 3D Portfolio Project
-
-👉 Animated 3D models and reveal animations
-
-👉 Realistic lighting and shadows
-
-👉 GSAP-powered scroll interactions
-
-👉 Responsive design with Tailwind CSS and Flexbox/Grid
-
-👉 Micro Interactions
-
-👉 Multi-section layout (About, Projects, Contact)
-
-👉 Mobile optimized 3D experience
-
-and many more, including code architecture and reusability.
-
-## <a name="quick-start">🤸 Quick Start</a>
-
-Follow these steps to set up the project locally on your machine.
-
-**Prerequisites**
-
-Make sure you have the following installed on your machine:
-
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
-
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/adrianhajdin/3d-portfolio.git
-cd 3d-portfolio
-```
-
-**Installation**
-
-Install the project dependencies using npm:
-
-```bash
-npm install
-```
-
-**Set Up Environment Variables**
-
-Create a new file named `.env` in the root of your project and add the following content:
-
-```env
-VITE_WEB3FORMS_ACCESS_KEY=
-```
-
-Generate an access key from **[Web3Forms](https://web3forms.com/)** and paste it here so the contact form can submit entries without additional backend code.
-
-**Running the Project**
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173/) in your browser to view the project.
-
-
-## <a name="links">🔗 Assets and Snippets</a>
-
-Assets and snippets used in the project can be found in the **[video kit](https://jsm.dev/pfolio25-kit)**.
-
-<a href="https://jsm.dev/pfolio25-kit" target="_blank">
-  <img src="public/images/readme-video-kit.png" alt="Video Kit Banner">
-</a>
-
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with JSM Pro Courses**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://beta.jsmastery.pro/" target="_blank">
-  <img src="public/images/readme-bottom.png" alt="Project Banner">
-</a>
+I’m open to SDE / Full Stack roles, freelancing for CRM/ERP builds, or helping teams adopt better RBAC/state management patterns. Ping me via the contact form on my site or drop an email—happy to share demos, architecture notes, or code samples.

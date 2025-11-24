@@ -54,7 +54,7 @@ const AppShowcase = () => {
             <div className="text-content">
               <h2>CoreFlow CRM — lead-to-revenue control center</h2>
               <p className="text-white-50 md:text-xl">
-                Next.js 14 + TypeScript build for Claims 360 featuring RBAC,
+                Next.js 15 + TypeScript build for Claims 360 featuring RBAC,
                 folio tracking, follow-up cadences, and analytics cards powered
                 by Zustand + server actions.
               </p>

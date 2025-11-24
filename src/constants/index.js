@@ -95,53 +95,20 @@ const techStackImgs = [
     imgPath: "/images/logos/react.png",
   },
   {
-    name: "TypeScript & Zustand",
-    imgPath: "/images/logos/python.svg",
+    name: "ShadCN for UI",
+    imgPath: "https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png",
   },
   {
     name: "Node.js & Express",
     imgPath: "/images/logos/node.png",
   },
   {
-    name: "Three.js Storytelling",
-    imgPath: "/images/logos/three.png",
+    name: "Tailwind",
+    imgPath: "/images/tailwind.svg",
   },
   {
     name: "GitHub & CI",
     imgPath: "/images/logos/git.svg",
-  },
-];
-
-const techStackIcons = [
-  {
-    name: "Next.js & React UI",
-    modelPath: "/models/react_logo-transformed.glb",
-    scale: 1,
-    rotation: [0, 0, 0],
-  },
-  {
-    name: "TypeScript & State Patterns",
-    modelPath: "/models/python-transformed.glb",
-    scale: 0.8,
-    rotation: [0, 0, 0],
-  },
-  {
-    name: "Node.js & Express APIs",
-    modelPath: "/models/node-transformed.glb",
-    scale: 5,
-    rotation: [0, -Math.PI / 2, 0],
-  },
-  {
-    name: "Three.js Storytelling",
-    modelPath: "/models/three.js-transformed.glb",
-    scale: 0.05,
-    rotation: [0, 0, 0],
-  },
-  {
-    name: "GitHub, CI & Reviews",
-    modelPath: "/models/git-svg-transformed.glb",
-    scale: 0.05,
-    rotation: [0, -Math.PI / 4, 0],
   },
 ];
 
@@ -264,7 +231,6 @@ export {
   expLogos,
   testimonials,
   socialImgs,
-  techStackIcons,
   techStackImgs,
   navLinks,
 };

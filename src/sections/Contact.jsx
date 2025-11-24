@@ -1,5 +1,4 @@
 import TitleHeader from "../components/TitleHeader";
-import ContactExperience from "../components/models/contact/ContactExperience";
 
 const Contact = () => {
   const accessKey =
@@ -83,8 +82,11 @@ const Contact = () => {
             </div>
           </div>
           <div className="xl:col-span-7 min-h-96">
-            <img src= 'https://raw.githubusercontent.com/Deepak-Varshney/Personal-portfolio/refs/heads/main/2.jpg' className="w-full h-full hover:cursor-grab rounded-3xl overflow-hidden">
-            </img>
+            <img
+              src="https://raw.githubusercontent.com/Deepak-Varshney/Personal-portfolio/refs/heads/main/2.jpg"
+              alt="Contact preview"
+              className="w-full h-full hover:cursor-grab rounded-3xl object-cover"
+            />
           </div>
         </div>
       </div>
